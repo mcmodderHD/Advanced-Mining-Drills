@@ -1,0 +1,9 @@
+{
+    "name": "Advanced-Mining-Drills",
+    "version": "2.0.0",
+    "title": "Advanced Mining Drills - Space Age",
+    "author": "mcmodderHD",
+    "factorio_version": "2.0",
+    "dependencies": ["base >= 2.0", "space-age >= 1.0"],
+    "description": "Additional Tiers of Electric Mining Drills and Big Mining Drills"
+}
