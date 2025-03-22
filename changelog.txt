@@ -1,0 +1,10 @@
+---------------------------------------------------------------------------------------------------
+Version: 2.0.1
+Date: 2024-10-26
+  Graphics:
+    - Fixed Textures on Big Mining Drills (Are still subject to change)
+  Features:
+    - Added Quantum Mining Drill and Big Quantum Mining Drill which use Quantum Processors to upgrade
+  Balancing:
+    - Adjusted Recipes a little bit
+---------------------------------------------------------------------------------------------------
